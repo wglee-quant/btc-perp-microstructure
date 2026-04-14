@@ -176,7 +176,7 @@ Open to discussions on quantitative research, market microstructure, and ML for 
 
 - Email: [leewoonggyu@outlook.kr](mailto:leewoonggyu@outlook.kr)
 - GitHub: [@wglee-quant](https://github.com/wglee-quant)
-- LinkedIn: *[placeholder — add your URL]*
+- LinkedIn: [Woonggyu Lee](https://www.linkedin.com/in/%EC%9B%85%EA%B7%9C-%EC%9D%B4-5bb67a401)
 
 ---
 
